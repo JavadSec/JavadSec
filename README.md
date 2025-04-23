@@ -12,12 +12,11 @@
 
 ## 🛠️ مهارت‌ها
 
-text
-💻 Front-End      : HTML, CSS, JavaScript
-⚙️ Back-End       : PHP, Node.js
-📦 ابزارها         : Git, GitHub, VS Code
-🎨 طراحی          : Photoshop, Illustrator
-🤖 بات‌سازی       : Telegram Bots (PHP, PyTelegramBotAPI)
+- 💻 **Front-End**: HTML, CSS, JavaScript
+- ⚙️ **Back-End**: PHP, Node.js
+- 📦 **ابزارها**: Git, GitHub, VS Code
+- 🎨 **طراحی**: Photoshop, Illustrator
+- 🤖 **بات‌سازی**: Telegram Bots (PHP, PyTelegramBotAPI)
 
 
 ---
